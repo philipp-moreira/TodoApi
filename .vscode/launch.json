@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "C#: TodoApi",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/TodoApi.csproj",
+            "launchConfigurationId": "TargetFramework=;TodoApi",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
